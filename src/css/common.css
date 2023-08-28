@@ -16,3 +16,11 @@ img {
   display: block;
   max-width: 100%;
 }
+
+button {
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: auto;
+
+}
